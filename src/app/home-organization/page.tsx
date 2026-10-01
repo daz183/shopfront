@@ -105,7 +105,6 @@ export default function HomeOrganizationPage() {
                   </span>
                 </div>
               </div>
-              {/* Reviews section */}
               <div className="mt-3 text-sm text-gray-600 line-clamp-3">
                 {product.reviews.map((review, idx) => (
                   <p key={idx} className="mb-1">
@@ -130,7 +129,7 @@ export default function HomeOrganizationPage() {
             Amazon Associate • Commissions on qualifying purchases
           </p>
         </div>
-      </main>
+      </div>
     </main>
   );
 }
