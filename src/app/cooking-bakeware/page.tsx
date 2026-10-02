@@ -11,7 +11,7 @@ export default function CookingBakewarePage() {
         brand: "Le Creuset",
         price: "£349.95",
         originalPrice: "£399.95",
-        image: "https://m.media-amazon.com/images/I/51Y9k15u7GL.jpg",
+        image: "https://m.media-amazon.com/images/I/51Y9k15u7GL._AC_UL300_SR300,300_SR300,300_.jpg",
         affiliateLink: "https://www.amazon.co.uk/dp/B006HRA8TS?tag=hermesdave-21",
         rating: 4.9,
         reviewCount: 6800,
