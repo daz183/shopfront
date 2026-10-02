@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   images: {
     // Use ONLY domains (remotePatterns is skipped by Vercel edge runtime)
     domains: [
-      "m.media-amazon.co.uk",
+      "m.media-amazon.com",
       "images-na.ssl-images-amazon.com",
       "images-wl-na.amazon.co.uk",
     ],
