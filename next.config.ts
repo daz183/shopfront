@@ -16,6 +16,12 @@ const nextConfig: NextConfig = {
         hostname: "images-wl-na.amazon.co.uk",
       },
     ],
+    // Also use domains (deprecated but compatible with Vercel edge runtime)
+    domains: [
+      "m.media-amazon.co.uk",
+      "images-na.ssl-images-amazon.com",
+      "images-wl-na.amazon.co.uk",
+    ],
   },
 };
 
